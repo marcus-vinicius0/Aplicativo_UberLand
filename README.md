@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido na disciplina Sistema de Banco de Dados. O trabalho foi realizado pelos estudantes Marcus Vinícius Almeida Florêncio, Cauã Pereira Neres, Hendrik Abdalla Hermann e Pedro Henrique de Oliveira.
 
-No repositório **Aplicativo_UberLand**, é possível encontrar todos os códigos dentro da pasta **Código**, nela encontram-se os scripts: de criação do banco de dados, de popular o banco, e também um arquivo contendo as consultas, store procedure e a trigger. Além disso, é possível encontrar no repositório o Diagrama de Entidade Relacionamento, Modelo Relacional. 
+No repositório **Aplicativo_UberLand**, na pasta **Código**, encontram-se os scripts de criação do banco de dados, de preenchimento do banco e também um arquivo contendo as consultas, stored procedures e a trigger. Além disso, é possível encontrar no repositório o Diagrama de Entidade Relacionamento, o Modelo Relacional, as documentações completas da Parte 1 e 2 do trabalho, e o arquivo **Trabalho SBD.docx**. Nele, encontram-se os requisitos completos do projeto.
 
 ## 📖 Contexto
 Uberlândia está na lista das cidades mineiras que mais possuem casos de dengue. Atualmente, foram constatados mais de 127 mil casos e 70 mortes de dengue no município.
