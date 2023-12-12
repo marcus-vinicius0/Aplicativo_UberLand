@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido na disciplina Sistema de Banco de Dados. O trabalho foi realizado pelos estudantes Marcus Vinícius Almeida Florêncio, Cauã Pereira Neres, Hendrik Abdalla Hermann e Pedro Henrique de Oliveira.
 
-No repositório **Aplicativo_UberLand**, é possível encontrar o código completo do programa no arquivo **main (7).c**, bem como o arquivo **Slides Projeto de Grafos.pdf**. Nele, encontram-se os slides com a explicação completa e detalhada sobre o trabalho.
+No repositório **Aplicativo_UberLand**, é possível encontrar todos os códigos dentro da pasta **Código**, nela encontram-se os scripts: de criação do banco de dados, de popular o banco, e também um arquivo contendo as consultas, store procedure e a trigger. Além disso, é possível encontrar no repositório o Diagrama de Entidade Relacionamento, Modelo Relacional. 
 
 ## 📖 Contexto
 Uberlândia está na lista das cidades mineiras que mais possuem casos de dengue. Atualmente, foram constatados mais de 127 mil casos e 70 mortes de dengue no município.
